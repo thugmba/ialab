@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Innovation Analytics Lab"
-logo                     : "/images/IAL_logo.png"
+logo                     : "/images/IAL_logo_short.png"
 title_separator          : "-"
 name                     : &name "Brian Kim"
 description              : &description "Inclusive Innovation"
