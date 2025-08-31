@@ -20,7 +20,7 @@ __Projects__
 
 - Why did incumbent firms lose to a newcomer in the AI battle?
   - Objective: This research is motivated by the challenge that leading firms struggle to respond promptly to generative AI market changes due to the increasing complexity of open innovation processes. Traditional competitor analysis methods are inadequate for the exponential speed of AI advancement and intricate innovation networks. The research aims to develop AI-powered tools that help firms accurately monitor competitors' technological trajectories and manage strategic uncertainties in the generative AI era.
-  ![NSTC_2024](/images/NSTC_2024.png)
+  ![NSTC_2024](/ialab/mages/NSTC_2024.png)
   - [國家科學及技術委員會 National Science and Technology Council](https://www.nstc.gov.tw/) (2024/8~2025/10)
 
 - Formulating management principles on utilizing generative AI to sustain competitive advantage
