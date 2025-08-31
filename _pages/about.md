@@ -47,5 +47,5 @@ __Contact__
 [Innovation Analytics Lab](https://thugmba.github.io/IAL/)\
 [Global Master of Business Administration](https://gmba.thu.edu.tw/)\
 [College of Management](https://mana.thu.edu.tw/), [Tunghai University](https://www.thu.edu.tw/)\
-No. 1727, Sec. 4, Taiwan Boulevard, Xitun District, Taichung City 407224, Taiwan R.O.C.
+[No. 1727, Sec. 4, Taiwan Boulevard, Xitun District, Taichung City 407224, Taiwan R.O.C.](https://maps.app.goo.gl/N9URcbDNsYXYdcqQA)
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1819.8492701681848!2d120.611723!3d24.182303!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346915f90c7568e9%3A0x6a6dc98ff2a7a2e2!2z5p2x5rW35aSn5a24566h55CG5a246ZmiKE0p!5e0!3m2!1sen!2stw!4v1756646968511!5m2!1sen!2stw" width="769" height="369" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
