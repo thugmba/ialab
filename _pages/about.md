@@ -7,16 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to Innovation Analytics Lab!
 
-__Mission__
+We use artificial intelligence to analyze how innovation happens and help organizations make better decisions.
+
+### Mission
 
 We create actionable knowledge by applying AI technology to innovation analytics
 
-__Vision__
+### Vision
 
 To build a better world through extensive sharing of knowledge and insights
 
-__Projects__
+### What do we do?
 
 - Why did incumbent firms lose to a newcomer in the AI battle?
   - Objective: This research is motivated by the challenge that leading firms struggle to respond promptly to generative AI market changes due to the increasing complexity of open innovation processes. Traditional competitor analysis methods are inadequate for the exponential speed of AI advancement and intricate innovation networks. The research aims to develop AI-powered tools that help firms accurately monitor competitors' technological trajectories and manage strategic uncertainties in the generative AI era.
@@ -30,17 +33,21 @@ __Projects__
 
 <!-- What wo do -->
 
-__Data or Insight: What really drives decisions?__
+### Why does this matter?
+
+#### Data or Insight: What really drives decisions?
 
 As the nature of data and the ways to access it are constantly evolving, it is essential to adapt to the new approaches for analyzing data in order to create insights by uncovering hidden patterns through the latest technologies. Such insights constitutes a fundamental foundation for both academics and practitioners in making informed decisions within an increasingly dynamic and competitive global environment. Without properly prepared data, however, data-driven decision making becomes impossible.
 
 Without effective management, technology is merely like a stack of books left in the corner of a library. It does not help us move forward. So does information. Value is created only when information is effectively utilized through technologies, and it is this value that enables progress. While the role of an information provider has largely been replaced by Google, the role of insight creator remianes irreplcaeable.
 
-__Challenge in big data era__
+#### Challenge in big data era
 
 While the the availability of data supports informed decision-making, the quality of such decisions can deteriorate once the volume of data exceeds a certain threshold. At that point, excessive information may hinder judgement and increase the likelihood of error. This presents a significant challenge in the era of big data. Consequently, it is crucial to identify and quantify this threshold through rigorous scientific methods.
 
-__Contact__
+If you are interested in artificial intelligence, innovation, and data analytics, please feel free to reach out to us!
+
+### Contact
 
 ![logo]({{site.baseurl}}/images/IAL_logo_short.png)
 
