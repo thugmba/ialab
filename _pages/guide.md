@@ -5,7 +5,7 @@ permalink: /guide/
 author_profile: true
 ---
 
-Conducting research can be a complex process that requires various tools to enhance efficiency and quality of your work, all while preserving your valuable time. Below is a list of tools and tips based on my personal experience during my doctoral program.
+Conducting research can be a complex process that requires various tools to optimize efficiency and enhance the overall quality of scholarly work, while safeguarding your limited and valuable time. Below is a list of tools and tips derived from my experiential insights acquired during my doctoral training.
 
 ## Principle
 
@@ -13,7 +13,7 @@ When selecting a tool from a range of options, choose one that offers multiple f
 
 ## AMAS framework
 
-Research revolves around the pursuit of knowledge and involves various activities, from gathering information to making original contributions. Each of these tasks must be completed within specified time constratins, which makes prompt execution essential. To maximize efficiency, it is crucial to leverage technology effectively. The AMAS framework (Acquiring, Managing, Authoring, and Sharing) provides a straightforward approach to streamline your research workflow and enhance productivity.
+Research revolves around the pursuit of knowledge and involves various activities, from gathering information to making original contributions. Each of these tasks must be completed within specified time constraints, which makes prompt execution essential. To maximize efficiency, it is crucial to leverage technology effectively. The AMAS framework (Acquiring, Managing, Authoring, and Sharing) provides a straightforward approach to streamline your research workflow and enhance productivity.
 
 ### Acquiring knowledge
 
@@ -41,7 +41,7 @@ Data sources
 
 Reference management
 
-- [Zotero](https://www.zotero.org/): Zotero is an essential tool to manage references while preparing research manuscripts. It is particularly helpful tool for oranizing knowledge. I successfully managed over 2,000 references easily while working on my manuscripts and doctoral dissertation. Zotero can handle various types of data, including academic papers, websites, and even YouTube video URLs, allowing you to organize all related information in one place. It functions as a virtual folder that keeps different data items together. If you are already familiar with EndNote, learning how to use Zotero will be a piece of cake. For tutorials, simply search for `zotero site:.edu` on Google.
+- [Zotero](https://www.zotero.org/): Zotero is an essential tool to manage references while preparing research manuscripts. It is a particularly helpful tool for organizing knowledge. I successfully managed over 2,000 references easily while working on my manuscripts and doctoral dissertation. Zotero can handle various types of data, including academic papers, websites, and even YouTube video URLs, allowing you to organize all related information in one place. It functions as a virtual folder that keeps different data items together. If you are already familiar with EndNote, learning how to use Zotero will be a piece of cake. For tutorials, simply search for `zotero site:.edu` on Google.
 
 ### Authoring knowledge
 
@@ -49,7 +49,7 @@ Writing R/Python codes
 
 - [MS Visual Studio Code](https://code.visualstudio.com/): It allows us to author documents, Python, and R source code in a single editing environment. Of course, this website was authored with [MS Visual Studio Code](https://code.visualstudio.com/).
 
-Authoring high quality vector graphics
+Authoring high-quality vector graphics
 
 - [Inkscape](https://inkscape.org/): This tool can manipulate vector graphics using a simple user interface to generate high-quality graphic arts for an academic manuscript. Almost all academic journals require an author to submit figures in [vector graphic format](https://www.elsevier.com/journals/technological-forecasting-and-social-change/0040-1625/guide-for-authors) to maintain the quality of pictures in the paper.
 
@@ -58,7 +58,7 @@ Authoring high quality vector graphics
 Research articles
 
 - Conference: Submit your preliminary results to the conference for peer review by other researchers. 
-  - Conference serach engine: [NSTC國科會活動訊息](https://www.nstc.gov.tw/folksonomy/list/e25373b0-6a33-4a48-ae74-85cae48f1b72?l=ch), [Elsevier Conference](https://www.elsevier.com/events/conferences/all), [WikiCFP](http://www.wikicfp.com/cfp/servlet/tool.search?q=management&year=t), [Conal Conference Alerts](https://conferencealerts.com/).
+  - Conference search engine: [NSTC國科會活動訊息](https://www.nstc.gov.tw/folksonomy/list/e25373b0-6a33-4a48-ae74-85cae48f1b72?l=ch), [Elsevier Conference](https://www.elsevier.com/events/conferences/all), [WikiCFP](http://www.wikicfp.com/cfp/servlet/tool.search?q=management&year=t), [Conal Conference Alerts](https://conferencealerts.com/).
   - Recommended conferences
     - [PICMET(Portland International Center for Management of Engineering and Technology)](https://www.picmet.org/)
     - [R&D management conference](https://rnd2024.org/)
