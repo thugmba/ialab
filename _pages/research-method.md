@@ -5,13 +5,12 @@ permalink: /teaching/research-method
 author_profile: true
 ---
 
-While you are working on the student study group project, you can also develope base materials for your Master thesis.
-
+While you are working on the student study group project, consider this as a practice to develop the base materials for your Master/Ph.D thesis.
 I listed up some useful approaches.
 
 ## Requirement Analysis
 
-The following methods are commonly used for analyzing requirements and needs assessment in our research projects.
+The following methods are commonly used for analyzing requirements and needs assessment in management research.
 
 | Research Question | Suggested Method |
 | :--- | :--- |
@@ -21,6 +20,10 @@ The following methods are commonly used for analyzing requirements and needs ass
 
 ### Importance-Performance Analysis (IPA)
 **IPA** is a widely used technique to identify areas that require improvement or resource allocation by comparing the importance of attributes to their perceived performance. It helps prioritize attributes into four quadrants: "Keep up the good work," "Concentrate here," "Low priority," and "Possible overkill."
+
+Online app for IPA
+
+https://huggingface.co/spaces/dealmoa/analytics
 
 This paper used IPA method for analyzing tourism dataset.
 
