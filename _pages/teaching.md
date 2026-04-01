@@ -9,6 +9,8 @@ author_profile: true
 
 This is a list of courses offered by Dr. Brian Kim.
 
+[Studeng study group tips](research-method.md)
+
 __Graduate level__
 
 - [Technology Management: Theory and Practice](https://github.com/briankimstudio/curriculum/blob/main/courses/tm_theory_practice.md)
@@ -20,7 +22,7 @@ Preliminary courses
 
 - [Introduction to Python](https://github.com/briankimstudio/curriculum/blob/main/courses/pre_python.md)
 - [Introduction to R](https://github.com/briankimstudio/curriculum/blob/main/courses/pre_r.md)
-- [Introduciton to JavaScript](https://github.com/briankimstudio/curriculum/blob/main/courses/pre_js.md)
+- [Introduction to JavaScript](https://github.com/briankimstudio/curriculum/blob/main/courses/pre_js.md)
 
 Intermediate/Advanced courses
 
