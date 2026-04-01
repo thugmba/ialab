@@ -39,3 +39,16 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* 코드 블록 전체의 폰트 크기 키우기 */
+div.highlighter-rouge, figure.highlight {
+    font-size: 16px; /* 기본보다 조금 더 크게 설정 */
+    line-height: 1.6; /* 줄 간격을 넓혀서 가독성 확보 */
+    margin-bottom: 20px;
+}
+
+/* 코드 텍스트 자체의 폰트 크기 */
+code, pre {
+    font-size: 14px !important;
+    font-family: "Courier New", Courier, monospace; /* 가독성 좋은 고정폭 글꼴 */
+}
