@@ -57,6 +57,7 @@ demo = gr.Interface(
 
 demo.launch()
 ```
+
 - [**Streamlit**](https://streamlit.io/): A powerful framework for building data-rich web applications with Python, ideal for data science projects.
 
 Example: Show text on the web
@@ -68,9 +69,11 @@ import numpy as np
 
 st.title('Uber pickups in NYC')
 ```
+
 - [**Huggingface space**](https://huggingface.co/): Free Python-based web app hosting site. Most of my apps are runing on this site.
   - [https://huggingface.co/spaces/dealmoa/THU_AI](https://huggingface.co/spaces/dealmoa/THU_AI)
   - [https://huggingface.co/spaces/dealmoa/analytics](https://huggingface.co/spaces/dealmoa/analytics)
 - [**Vercel**](https://vercel.com/): Free Node-based web app hosting site.
   - [https://courseai-one.vercel.app/](https://courseai-one.vercel.app/)
+
 ---
