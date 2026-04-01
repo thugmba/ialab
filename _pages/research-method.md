@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Methods"
-# permalink: /teaching/research-method
+permalink: research-method
 author_profile: true
 ---s
 
