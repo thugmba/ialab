@@ -42,7 +42,7 @@ We use the following tools to develop interactive applications, dashboards, and 
 
 Example: Online chat app like ChatGPT
 
-```
+```python
 import gradio as gr
 
 def greet(name, intensity):
@@ -61,7 +61,7 @@ demo.launch()
 
 Example: Show text on the web
 
-```
+```python
 import streamlit as st
 import pandas as pd
 import numpy as np
