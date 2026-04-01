@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Research Methods"
-permalink: /teaching/research-method
+# permalink: /teaching/research-method
 author_profile: true
----
+---s
 
 While you are working on the student study group project, consider this as a practice to develop the base materials for your Master/Ph.D thesis.
 I listed up some useful approaches.
@@ -23,7 +23,7 @@ The following methods are commonly used for analyzing requirements and needs ass
 
 Online app for IPA
 
-https://huggingface.co/spaces/dealmoa/analytics
+[https://huggingface.co/spaces/dealmoa/analytics](https://huggingface.co/spaces/dealmoa/analytics)
 
 This paper used IPA method for analyzing tourism dataset.
 
