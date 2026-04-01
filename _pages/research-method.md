@@ -39,6 +39,33 @@ The **TLfF** is a visualization technique specifically designed for the results 
 We use the following tools to develop interactive applications, dashboards, and research prototypes. *With these tools, you can leverage your Python skills to transfrom ideas to reality very easily.*
 
 - [**Gradio**](https://www.gradio.app/): A fast way to demo your machine learning model with a friendly web interface.
+
+Example: Online chat app like ChatGPT
+
+```
+import gradio as gr
+
+def greet(name, intensity):
+    return "Hello, " + name + "!" * int(intensity)
+
+demo = gr.Interface(
+    fn=greet,
+    inputs=["text", "slider"],
+    outputs=["text"],
+    api_name="predict"
+)
+
+demo.launch()
+```
 - [**Streamlit**](https://streamlit.io/): A powerful framework for building data-rich web applications with Python, ideal for data science projects.
 
+Example: Show text on the web
+
+```
+import streamlit as st
+import pandas as pd
+import numpy as np
+
+st.title('Uber pickups in NYC')
+```
 ---
