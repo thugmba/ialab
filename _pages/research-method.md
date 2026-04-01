@@ -6,7 +6,7 @@ author_profile: true
 ---s
 
 While you are working on the student study group project, consider this as a practice to develop the base materials for your Master/Ph.D thesis.
-I listed up some useful approaches.
+I listed some useful approaches.
 
 ## Requirement Analysis
 
