@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Methods"
-permalink: /guide/
+permalink: /teaching/
 author_profile: true
 ---
 

@@ -9,7 +9,7 @@ author_profile: true
 
 This is a list of courses offered by Dr. Brian Kim.
 
-[Studeng study group tips](research-method.md)
+[Studeng study group tips](_pages/research-method.md)
 
 __Graduate level__
 
