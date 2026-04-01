@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Research Methods"
-permalink: research-method
+permalink: /research-method
 author_profile: true
----s
+---
 
 While you are working on the student study group project, consider this as a practice to develop the base materials for your Master/Ph.D thesis.
 I listed some useful approaches.
