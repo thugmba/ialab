@@ -32,6 +32,8 @@ jobs:
         
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
+        env:
+          PAGES_REPO_NWO: ${{ github.repository }}
         with:
           source: ./
           destination: ./_site
