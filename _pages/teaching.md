@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
->Under construction!
-
 This is a list of courses offered by Dr. Brian Kim.
 
 [Studeng study group tips]({{ site.baseurl }}/research-method)
@@ -51,8 +49,13 @@ Most undergraduate courses have hands-on lab sessions where students can acquire
 
 __Workshops__
 
+- Data visualization with Al
+- Al app development
+- Vibe coding
 - How to avoid plagiarism
 - How to manage knowledge in smart way
+- Prompt engineering
+- Social science research methods
 
 <!-- {% include base_path %}
 
